@@ -50,13 +50,3 @@ Assigns faculty members to rooms based on student domains. Ensures that each roo
 
 Generates a summary report of the seating plan and faculty allocation for review.
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a pull request.
-
